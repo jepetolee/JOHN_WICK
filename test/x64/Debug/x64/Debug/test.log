@@ -1,0 +1,17 @@
+﻿  test.c
+C:\Users\user\source\repos\test\test\print.h(17,38): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\test\test\print.h(79,30): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\test\test\print.h(100,30): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\test\test\print.h(114,10): warning C4101: 'hImage2' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\test\test\print.h(187,31): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\test\test\game.h(107,26): warning C4244: '=': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\test\test\screen.h(63,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\test\test\test.c(12,1): warning C4005: 'B_X': 매크로 재정의
+C:\Users\user\source\repos\test\test\game.h(14): message : 'B_X'의 이전 정의를 참조하십시오.
+C:\Users\user\source\repos\test\test\test.c(13,1): warning C4005: 'B_Y': 매크로 재정의
+C:\Users\user\source\repos\test\test\game.h(15): message : 'B_Y'의 이전 정의를 참조하십시오.
+C:\Users\user\source\repos\test\test\test.c(14,1): warning C4005: 'U_X': 매크로 재정의
+C:\Users\user\source\repos\test\test\game.h(16): message : 'U_X'의 이전 정의를 참조하십시오.
+C:\Users\user\source\repos\test\test\test.c(15,1): warning C4005: 'U_Y': 매크로 재정의
+C:\Users\user\source\repos\test\test\game.h(17): message : 'U_Y'의 이전 정의를 참조하십시오.
+  test.vcxproj -> C:\Users\user\source\repos\test\x64\Debug\test.exe

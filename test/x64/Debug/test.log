@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test.c
+C:\Users\COM\Desktop\test\test\test\print.h(299,30): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\print.h(320,30): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\print.h(334,10): warning C4101: 'hImage2' :참조되지 않은 지역 변수입니다.
+C:\Users\COM\Desktop\test\test\test\print.h(360,10): warning C4101: 'hImage2' :참조되지 않은 지역 변수입니다.
+C:\Users\COM\Desktop\test\test\test\print.h(433,31): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\print.h(445,10): warning C4101: 'hImage2' :참조되지 않은 지역 변수입니다.
+C:\Users\COM\Desktop\test\test\test\number.h(6,28): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(11,27): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(12,32): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(13,34): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(14,36): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(15,35): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(16,35): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(17,34): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(18,36): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(19,36): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\number.h(20,35): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\COM\Desktop\test\test\test\game.h(27,13): warning C4101: 'off' :참조되지 않은 지역 변수입니다.
+C:\Users\COM\Desktop\test\test\test\game.h(27,10): warning C4101: 'on' :참조되지 않은 지역 변수입니다.
+C:\Users\COM\Desktop\test\test\test\game.h(106,20): warning C4101: 'b_move' :참조되지 않은 지역 변수입니다.
+C:\Users\COM\Desktop\test\test\test\screen.h(64,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  test.vcxproj -> C:\Users\COM\Desktop\test\test\x64\Debug\johnwick.exe
